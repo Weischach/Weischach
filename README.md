@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weischach
 - 👀 I’m interested in using Deep Learning Techniques to expand the computational boundaries for fluid dynamics and aerodynamics.
 - 🌱 I’m currently learning statistical modeling of turbulence.
-- 📫 Contact me at vaishah892gmail.com or krishnanv2016@fau.edu
+- 📫 Contact me at vaishah89@gmail.com or krishnanv2016@fau.edu
 
 <!---
 Weischach/Weischach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
